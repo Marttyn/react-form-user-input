@@ -1,2 +1,2 @@
 # react-form-user-input
-Created with CodeSandbox
+Using react to create a form and apply validation
